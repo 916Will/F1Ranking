@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willian Sousa\\source\\repos\\F1Ranking\\F1Ranking\\F1Ranking.csproj": {}
+    "C:\\Users\\Willian Sousa\\Documents\\Cursos\\Alura\\C#\\F1Ranking\\F1Ranking\\F1Ranking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willian Sousa\\source\\repos\\F1Ranking\\F1Ranking\\F1Ranking.csproj": {
+    "C:\\Users\\Willian Sousa\\Documents\\Cursos\\Alura\\C#\\F1Ranking\\F1Ranking\\F1Ranking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willian Sousa\\source\\repos\\F1Ranking\\F1Ranking\\F1Ranking.csproj",
+        "projectUniqueName": "C:\\Users\\Willian Sousa\\Documents\\Cursos\\Alura\\C#\\F1Ranking\\F1Ranking\\F1Ranking.csproj",
         "projectName": "F1Ranking",
-        "projectPath": "C:\\Users\\Willian Sousa\\source\\repos\\F1Ranking\\F1Ranking\\F1Ranking.csproj",
+        "projectPath": "C:\\Users\\Willian Sousa\\Documents\\Cursos\\Alura\\C#\\F1Ranking\\F1Ranking\\F1Ranking.csproj",
         "packagesPath": "C:\\Users\\Willian Sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willian Sousa\\source\\repos\\F1Ranking\\F1Ranking\\obj\\",
+        "outputPath": "C:\\Users\\Willian Sousa\\Documents\\Cursos\\Alura\\C#\\F1Ranking\\F1Ranking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willian Sousa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = F1Ranking
-build_property.ProjectDir = C:\Users\Willian Sousa\source\repos\F1Ranking\F1Ranking\
+build_property.ProjectDir = C:\Users\Willian Sousa\Documents\Cursos\Alura\C#\F1Ranking\F1Ranking\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
